@@ -43,17 +43,6 @@
     "type": "git",
     "url": "git@github.com:kaola-fed/awesome-skeleton.git"
   },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.js": [
-      "eslint --fix"
-    ]
-  },
   "nyc": {
     "reporter": [
       "lcov",
