@@ -81,6 +81,10 @@
   const MAIN_COLOR = '#EEEEEE';
   const MAIN_COLOR_RGB = 'rgb(238, 238, 238)';
 
+  // dark theme
+  // export const MAIN_COLOR = '#2A374F';
+  // export const MAIN_COLOR_RGB = 'rgb(42, 55, 79)';
+
   // Pseudo-class style
   const PSEUDO_CLASS = 'sk-pseudo';
 
